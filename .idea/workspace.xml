@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="328b5d4c-8708-4a72-9d6d-d4d15ee81faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +45,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/senthil/prabhu/android/weatherforecast/WeatherApiTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -139,7 +139,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/senthil/prabhu/android/weatherforecast/models/CurrentWeather.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/senthil/prabhu/android/weatherforecast/models/WeatherForecast.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_current_location_weather_forecast.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/senthil/prabhu/android/weatherforecast/adapters/WeatherForecastAdapter.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/weather_forecast_date_heading.xml" />
@@ -156,6 +155,7 @@
         <option value="$PROJECT_DIR$/app/src/test/java/com/senthil/prabhu/android/weatherforecast/UtilsTest.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/senthil/prabhu/android/weatherforecast/utils/Utils.kt" />
         <option value="$PROJECT_DIR$/app/src/test/java/com/senthil/prabhu/android/weatherforecast/WeatherApiTest.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -855,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/senthil/prabhu/android/weatherforecast/utils/Utils.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -883,6 +876,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
