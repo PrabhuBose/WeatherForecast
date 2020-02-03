@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="label_black_bold" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/generic_text_label_large</item>
+    </style>
+
+
+    <style name="generic_edit_text" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/generic_input_text_size</item>
+    </style>
+
+
+    <style name="generic_text_label" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/generic_text_label</item>
+    </style>
+
+
+    <style name="generic_text_label_bold" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/generic_text_label</item>
+    </style>
+
+    <style name="generic_text_label_semi_bold" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/generic_text_label</item>
+    </style>
+
+    <style name="generic_text_extra_bold" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textColorHint">@android:color/black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/generic_text_label</item>
+    </style>
+
+
+    <style name="large_lable" parent="@android:style/TextAppearance.Large">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

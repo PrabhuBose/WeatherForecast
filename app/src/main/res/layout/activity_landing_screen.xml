@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.LandingScreen">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/search_by_city_name"
+            style="@style/generic_text_label_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:text="@string/search_weather_by_city_names"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/generic_text_label_largest" />
+
+
+        <Button
+            android:id="@+id/get_weather_forecast"
+            style="@style/generic_text_label_bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:text="@string/search_weather_for_current_location"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/generic_text_label_largest" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

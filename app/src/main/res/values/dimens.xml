@@ -1,0 +1,19 @@
+<resources>
+
+
+    <!--***********************Generic*************************-->
+    <dimen name="generic_input_text_size">14sp</dimen>
+    <dimen name="generic_text_label_largest_more">28sp</dimen>
+    <dimen name="generic_text_label_largest_even_more">32sp</dimen>
+    <dimen name="generic_text_label_largest_even_more_all">40sp</dimen>
+    <dimen name="generic_text_label_largest">22sp</dimen>
+    <dimen name="generic_text_label_largest_plus">24sp</dimen>
+    <dimen name="generic_text_label_larger">20sp</dimen>
+    <dimen name="generic_text_label_large">18sp</dimen>
+    <dimen name="generic_text_label">16sp</dimen>
+    <dimen name="generic_text_label_small">14sp</dimen>
+    <dimen name="generic_text_label_smaller">12sp</dimen>
+    <dimen name="generic_text_label_smallest">10sp</dimen>
+
+
+</resources>
