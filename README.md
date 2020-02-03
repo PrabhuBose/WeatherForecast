@@ -26,7 +26,7 @@
   Copy the API key and replace in #res->values->strings.xml 
   `<string name="google_maps_api_key">YOUR API KEY</string>`
 
-**Step 4 : (Create Openweather API key)**
+**Step 4 : (In case if your want to cahnge Openweather API key)**
   
   Head over to http://openweathermap.org
   
